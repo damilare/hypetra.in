@@ -9,5 +9,4 @@ apt-get -y install build-essential checkinstall
 apt-get -y install python-dev
 apt-get -y install python-pip
 
-pip install requests==2.1.0
-pip install beautifulsoup4==4.3.2
+pip install -r requirements.txt
